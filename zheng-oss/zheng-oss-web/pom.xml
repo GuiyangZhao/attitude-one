@@ -12,7 +12,7 @@
     <packaging>war</packaging>
 
     <name>zheng-oss-web Maven Webapp</name>
-    <url>http://www.zhangshuzheng.cn</url>
+    <url>http://www.attitude.one</url>
 
     <dependencies>
         <!-- 测试 -->

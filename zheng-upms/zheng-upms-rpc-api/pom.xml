@@ -12,7 +12,7 @@
     <packaging>jar</packaging>
 
     <name>zheng-upms-rpc-api</name>
-    <url>http://www.zhangshuzheng.cn</url>
+    <url>http://www.attitude.one</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
